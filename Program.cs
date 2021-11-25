@@ -15,7 +15,7 @@ namespace HomeTasks3
             Console.WriteLine("");
 
             Console.WriteLine("ДЗ №2.1");
-            Task21();
+            Task2_1();
             Console.WriteLine("");
 
             Console.WriteLine("ДЗ №3");
@@ -23,7 +23,7 @@ namespace HomeTasks3
             Console.WriteLine("");
 
             Console.WriteLine("ДЗ №3.1");
-            Task31();
+            Task3_1();
 
         }
 
@@ -83,7 +83,7 @@ namespace HomeTasks3
                     break;
             }
         }
-        public static void Task21()
+        public static void Task2_1()
         {
 
             Console.Write("Вводите номер месяца: ");
@@ -127,7 +127,7 @@ namespace HomeTasks3
             Console.ReadLine();
         }
 
-        public static void Task31()
+        public static void Task3_1()
         {
             double a, b, c;
             Console.Write("Введите вещественное число a = ");
