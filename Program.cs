@@ -14,7 +14,7 @@ namespace HomeTasks3
             Task2();
             Console.WriteLine("");
 
-            Console.WriteLine("ДЗ №21");
+            Console.WriteLine("ДЗ №2.1");
             Task21();
             Console.WriteLine("");
 
@@ -22,7 +22,7 @@ namespace HomeTasks3
             Task3();
             Console.WriteLine("");
 
-            Console.WriteLine("ДЗ №31");
+            Console.WriteLine("ДЗ №3.1");
             Task31();
 
         }
