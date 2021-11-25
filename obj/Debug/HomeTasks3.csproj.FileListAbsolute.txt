@@ -1,0 +1,7 @@
+C:\Users\99293\source\repos\HomeTasks3\bin\Debug\HomeTasks3.exe.config
+C:\Users\99293\source\repos\HomeTasks3\bin\Debug\HomeTasks3.exe
+C:\Users\99293\source\repos\HomeTasks3\bin\Debug\HomeTasks3.pdb
+C:\Users\99293\source\repos\HomeTasks3\obj\Debug\HomeTasks3.csproj.AssemblyReference.cache
+C:\Users\99293\source\repos\HomeTasks3\obj\Debug\HomeTasks3.csproj.CoreCompileInputs.cache
+C:\Users\99293\source\repos\HomeTasks3\obj\Debug\HomeTasks3.exe
+C:\Users\99293\source\repos\HomeTasks3\obj\Debug\HomeTasks3.pdb
