@@ -6,15 +6,23 @@ namespace HomeTasks3
     {
         public static void Main()
         {
-            Console.Write("ДЗ №1");
+            Console.WriteLine("ДЗ №1");
             Task1();
-            Console.Write("ДЗ №2");
+            Console.WriteLine("");
+
+            Console.WriteLine("ДЗ №2");
             Task2();
-            Console.Write("ДЗ №21");
+            Console.WriteLine("");
+
+            Console.WriteLine("ДЗ №21");
             Task21();
-            Console.Write("ДЗ №3");
+            Console.WriteLine("");
+
+            Console.WriteLine("ДЗ №3");
             Task3();
-            Console.Write("ДЗ №31");
+            Console.WriteLine("");
+
+            Console.WriteLine("ДЗ №31");
             Task31();
 
         }
